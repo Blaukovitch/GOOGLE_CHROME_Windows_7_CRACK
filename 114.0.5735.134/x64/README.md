@@ -4,7 +4,7 @@
 `chrome.exe --no-sandbox`*  
 
 # (!!!) SEE IN GITHUB RELEASEs, OR RUTRACKER TORRENT, OR mega.co.nz OR ...
-https://cracklab.team/index.php?threads/1037/
+https://cracklab.team/index.php?threads/1037/  
 https://mega.nz/file/WARCDZqQ#sUn-RTEWHa6mTekjpPS8R_-6WKSirzeMjD5Vwpg45Jo (TEMPORARY, official)
 
 
