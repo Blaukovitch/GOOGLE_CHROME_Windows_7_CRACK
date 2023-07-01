@@ -3,10 +3,10 @@
 *Run from command line or .BAT/.LNK file:*  
 `chrome.exe --no-sandbox`*  
 
-![114](../images/chrome114_main.png "Google Chrome Windows 7")
+![114](images/chrome114_main.png "Google Chrome Windows 7")
 * **Yes, yes**, in this very first version (*114.0.5735.134*) **only by disabling the sandbox** - otherwise the browser will not start! **Yes**, it can be fixed - but it will take more time for a quality fix. **Yes**, perhaps hardware acceleration of **DirectX 11** after fixing the sandbox will also work perfrectly on the Windows 7.  
   
-![PH](../images/process_hacker.png "Process Hacker Windows 7")  
+![PH](images/process_hacker.png "Process Hacker Windows 7")  
 
 ## Intro  
 Dirty corporations and Hindu-managers are trying to deprive the any users of all the benefits that were created by technically more advanced people than them. Windows 7 and Windows XP are the most successful and best technical creations of Microsoft ever.  

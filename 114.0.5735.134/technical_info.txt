@@ -1,0 +1,41 @@
+^ ELF (author of 80_PA SecuROM keygen) ^
+> CRACKLAB
+
+[CHROME.EXE]
+	KERNEL32.DLL
+SetProcessMitigationPolicy
+
+	KERNEL32.DLL
+GetProcessMitigationPolicy
+PrefetchVirtualMemory
+SetProcessMitigationPolicy
+SetThreadInformation
+
+USERENV.DLL
+CreateAppContainerProfile
+DeriveAppContainerSidFromAppContainerName
+
+API-MS-WIN-POWER-BASE-L1-1-0.DLL
+CallNtPowerInformation
+
+-------------------------------------------------------
+[chrome_elf.dll]
+SetProcessMitigationPolicy
+
+-------------------------------------------------------
+
+DWRITE;
+ v3 = "DWriteFontProxyImpl::InitializeDirectWrite";
+    (**v8)(v8, &IDWriteFactory2, a1 + 0x20);
+      v10 = (a1 + 0x28);
+      v11 = *(a1 + 24);
+      v12 = *(a1 + 40);
+      if ( v12 )
+      {
+        *v10 = 0i64;
+        (*(*v12 + 16i64))(v12);
+      }
+      (**v11)(v11, &IDWriteFactory3, a1 + 0x28);
+
+
+[/:ERROR:dxva_video_decode_accelerator_win.cc(1421)] Fatal DXVAVDA error, could not LoadLibrary: msvproc.dll: Не найден указанный модуль. (0x7E)
