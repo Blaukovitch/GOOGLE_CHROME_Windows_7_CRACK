@@ -43,7 +43,7 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 | Sandbox support (gpu) | ❌ | 
 | DirectX Write render | ✔️ | 
 | DXVAVDA | ✔️ | 
-| DirectX 11 (gpu)| ❓ | 
+| WebGL / DirectX 11 (gpu)| ❓ | 
 
 **ELF (author of 80_PA SecuROM keygen), cracklab/exelab team, 2023**  
 https://cracklab.team/index.php?threads/1037/
