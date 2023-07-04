@@ -1,5 +1,6 @@
 # Google Chrome crack - Windows 7  
 ## 114.0.5735.134 x64  
+## 114.0.5735.199 x86  
 *Run from command line or .BAT/.LNK file:*  
 `chrome.exe --no-sandbox`*  
 
@@ -29,11 +30,7 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 ⚠️ <u>WARNING:</u> Files not signed! I don't have a Google Inc. private key at the moment.
 
 ## How to install?
-1) Install the original Google Chrome browser (*114.0.5735.134 x64*) or download a already patched folder;  
-2) Copy a new DLLs in to (*API-MS-... & msvproc*) into Google Chrome Install Directory;  
-2a) Copy *API-MS-WIN-CORE-WINRT-ERROR-L1-1-0* in to **/{ver.}** (*114.0.5735.134*) subfolder for originial Google .exe *notification_helper.exe*;  
-3) Replace the orignal DLLs (*chrome.exe, chrome_elf.dll, chrome.dll*);  
-4) Run `chrome.exe --no-sandbox`\* or launch with *1NOSANDBOX!!!.bat*  
+1) Download from release the merged pack;
 
 ## Features table
 | Critical | State |
