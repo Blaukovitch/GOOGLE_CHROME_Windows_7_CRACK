@@ -31,6 +31,7 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 
 ## How to install?
 1) Download from release the merged pack;
+2) Check you Microsoft Visual C++ Redistributable 2015-2019: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 or 2015: https://www.microsoft.com/en-us/download/details.aspx?id=52685  
 
 ## Features table
 | Critical | State |
