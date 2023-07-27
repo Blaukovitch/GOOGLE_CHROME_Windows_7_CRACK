@@ -36,7 +36,7 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 ## WOW! WebGPU on Windows 7 
 May be unstable!  
 Add to command line (with *--no-sandbox*) webgpu flag and **DirectX 3D 11** as webgpu render:  
-`--use-webgpu-adapter=d3d11`  
+`--enable-unsafe-webgpu --use-webgpu-adapter=d3d11`  
 In launched Chrome 114 must set enabled those flags:  
 `chrome://flags/#enable-unsafe-webgpu`  
 `chrome://flags/#ignore-gpu-blocklist`  
