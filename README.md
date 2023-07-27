@@ -31,7 +31,17 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 
 ## How to install?
 1) Download from release the merged pack;
-2) Check you Microsoft Visual C++ Redistributable 2015-2019: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 or 2015: https://www.microsoft.com/en-us/download/details.aspx?id=52685  
+2) Check you Microsoft Visual C++ Redistributable 2015-2019: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 or 2015: https://www.microsoft.com/en-us/download/details.aspx?id=52685
+
+## WOW! WebGPU on Windows 7 
+May be unstable!  
+Add to command line (with *--no-sandbox*) webgpu flag and **DirectX 3D 11** as webgpu render:  
+`--use-webgpu-adapter=d3d11`  
+In launched Chrome 114 must set enabled those flags:  
+`chrome://flags/#enable-unsafe-webgpu`  
+`chrome://flags/#ignore-gpu-blocklist`  
+and restart again.  
+
 
 ## Features table
 | Critical | State |
@@ -41,7 +51,8 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 | Sandbox support (gpu) | ❌ | 
 | DirectX Write render | ✔️ | 
 | DXVAVDA | ✔️ | 
-| WebGL / DirectX 11 (gpu)| ❓ | 
+| WebGL1/2 | ✔️ | 
+| WebGPU / DirectX 11 (gpu)| ❓ | 
 
 **ELF (author of 80_PA SecuROM keygen), cracklab/exelab team, 2023**  
 https://cracklab.team/index.php?threads/1037/
