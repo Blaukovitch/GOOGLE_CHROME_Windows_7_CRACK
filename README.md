@@ -51,6 +51,8 @@ In launched Chrome 114 must set enabled those flags:
 `chrome://flags/#ignore-gpu-blocklist`  
 and restart again.  
 
+## Chromium based projects
+🅾️ [Opera 102.0.4880.70](/releases/tag/Opera_EARLY/) browser 
 
 ## Features table
 | Critical | State |
