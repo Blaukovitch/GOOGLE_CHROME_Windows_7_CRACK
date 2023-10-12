@@ -1,6 +1,6 @@
 # Google Chrome crack - Windows 7 
-## 117.0.5938.63_x64
- Prevision: 114.0.5735.134 x64 , 114.0.5735.199 x86  
+## 118.0.5993.71 (x64/x86)  
+ Prevision: 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
 **SANDBOX is fixed but for hardware accelerated is still recommended:**  
 `chrome.exe --no-sandbox`*  
 
@@ -30,7 +30,8 @@ Dirty corporations and Hindu-managers are trying to deprive the any users of all
 * userenx.dll
 * xcryptprimitives.dll
 * Xfplat.dll
-* WinXttp.dll  
+* WinXttp.dll
+* netapi64.dll  
 https://github.com/Blaukovitch/API-MS-WIN_XP 
 
 ⚠️ <u>WARNING:</u> Files not signed! I don't have a Google Inc. private key at the moment.
