@@ -1,5 +1,5 @@
 # Google Chrome crack - Windows 7 
-## 118.0.5993.71 (x64/x86)  
+## 120.0.6099.63_x64 118.0.5993.71_x86
  Prevision: 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
 **SANDBOX is fixed but for hardware accelerated is still recommended:**  
 `chrome.exe --no-sandbox`*  
@@ -23,7 +23,10 @@ Dirty corporations and Hindu-managers are trying to deprive the any users of all
 * API-MS-WIN-POWER-BASE-L1-1-0  
 * API-MS-WIN-CORE-WINRT-STRING-L1-1-0  
 * API-MS-WIN-CORE-WINRT-L1-1-0  
-* API-MS-WIN-CORE-WINRT-ERROR-L1-1-0  
+* API-MS-WIN-CORE-WINRT-ERROR-L1-1-0
+* API-MS-WIN-CORE-REALTIME-L1-1-1
+* API-MS-WIN-CORE-LIBRARYLOADER-L1-2-0
+* API-MS-WIN-CORE-HANDLE-L1-1-0
 3) **Bridged DLL (wrappers):** 
 * kernel64.dll
 * user64.dll
@@ -53,13 +56,14 @@ In launched Chrome 114 must set enabled those flags:
 and restart again.  
 
 ## Chromium based projects
-🅾️ [Opera 102.0.4880.70](/releases/tag/Opera_EARLY/) browser 
+🅾️ [Opera 102.0.4880.70](/releases/tag/Opera_EARLY/) browser   
+🟢 [Spotify 1.2.22.982](/releases/tag/Spotify_first) music
 
 ## Features table
 | Critical | State |
 | ------ | ------ |
 | Stable | ✔️ |
-| WinAPI lifting | approx. **90%** |
+| WinAPI lifting | approx. **95%** |
 | Sandbox support (gpu) | ✔️/❌ | 
 | DirectX Write render | ✔️ | 
 | DXVAVDA | ✔️ | 
