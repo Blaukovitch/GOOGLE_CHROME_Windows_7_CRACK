@@ -56,8 +56,8 @@ In launched Chrome 114 must set enabled those flags:
 and restart again.  
 
 ## Chromium based projects
-🅾️ [Opera 102.0.4880.70](/releases/tag/Opera_EARLY/) browser   
-🟢 [Spotify 1.2.22.982](/releases/tag/Spotify_first) music
+🅾️ [Opera 102.0.4880.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Opera_EARLY/) browser   
+🟢 [Spotify 1.2.22.982](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Spotify_first) music
 
 ## Features table
 | Critical | State |
