@@ -66,5 +66,8 @@ and restart again.
 | WebGL1/2 | ✔️ | 
 | WebGPU / DirectX 11 (gpu)| ❓ | 
 
+## YOUTUBE
+https://www.youtube.com/watch?v=idzQV2wNUAI
+
 **ELF (author of 80_PA SecuROM keygen), cracklab/exelab team, 2023**  
 https://cracklab.team/index.php?threads/1037/
