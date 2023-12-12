@@ -1,10 +1,9 @@
 # Google Chrome crack - Windows 7 
-## 120.0.6099.63_x64 118.0.5993.71_x86
+## 120.0.6099.71_x64 120.0.6099.71_x86
  Prevision: 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
-**SANDBOX is fixed but for hardware accelerated is still recommended:**  
-`chrome.exe --no-sandbox`*  
+`--no-sandbox`**is no longer needed!**
 
-![117_sandbox_improvements](images/Chrome_117_7_ea.png "Google Chrome Windows 7")
+![120_sandboxED](images/Chrom_120_sandboxed7.png "Google Chrome Windows 7")
  
 * see *!!!!!!!README_FIRST!.pdf*
 ![PH](images/process_hacker.png "Process Hacker Windows 7")  
@@ -42,9 +41,6 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 ## How to install?
 1) Download from release the merged pack; 
 2) (for prevision **114 only**) Check you Microsoft Visual C++ Redistributable 2015-2019: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 or 2015: https://www.microsoft.com/en-us/download/details.aspx?id=52685
-
-## CVE-2023-4863 (WebP)
-💊FIXED!
 
 ## WOW! WebGPU on Windows 7
 May be unstable!  
