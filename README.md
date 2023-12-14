@@ -60,7 +60,7 @@ and restart again.
 | ------ | ------ |
 | Stable | ✔️ |
 | WinAPI lifting | approx. **95%** |
-| Sandbox support (gpu) | ✔️/❌ | 
+| Sandbox support (gpu) | ✔️ | 
 | DirectX Write render | ✔️ | 
 | DXVAVDA | ✔️ | 
 | WebGL1/2 | ✔️ | 
