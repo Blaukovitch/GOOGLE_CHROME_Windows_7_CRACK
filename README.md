@@ -1,7 +1,7 @@
 # Google Chrome crack - Windows 7 
 ## 120.0.6099.71_x64 120.0.6099.71_x86
  Prevision: 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
-`--no-sandbox`**is no longer needed!**
+`--no-sandbox`**is no longer needed! Exception:** for temporary printing operations (Ctrl + P/ Ctrl + Shift + P)
 
 ![120_sandboxED](images/Chrom_120_sandboxed7.png "Google Chrome Windows 7")
  
@@ -10,6 +10,11 @@
 
 ## Intro  
 Dirty corporations and Hindu-managers are trying to deprive the any users of all the benefits that were created by technically more advanced people than them. Windows 7 and Windows XP are the most successful and best technical creations of Microsoft ever.  
+
+## Chromium based projects
+🇪 [Microsoft EDGE 120.0.2210.77](https://github.com/Blaukovitch/Microsoft-EDGE-Windows-7-CRACK) git branch  (or see RELEASES here)   
+🅾️ [Opera 102.0.4880.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Opera_EARLY/) browser   
+🟢 [Spotify 1.2.22.982](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Spotify_first) music
   
 ## How it's work?  
 1) **Binary bithack (patch the assembly code):**  
@@ -50,10 +55,6 @@ In launched Chrome 114 must set enabled those flags:
 `chrome://flags/#enable-webgpu-developer-features`  
 `chrome://flags/#ignore-gpu-blocklist`  
 and restart again.  
-
-## Chromium based projects
-🅾️ [Opera 102.0.4880.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Opera_EARLY/) browser   
-🟢 [Spotify 1.2.22.982](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Spotify_first) music
 
 ## Features table
 | Critical | State |
