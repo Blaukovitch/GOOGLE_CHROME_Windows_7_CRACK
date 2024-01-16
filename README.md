@@ -1,7 +1,7 @@
 # Google Chrome crack - Windows 7 
-## 120.0.6099.71_x64 120.0.6099.71_x86
- Prevision: 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
-`--no-sandbox`**is no longer needed! Exception:** for temporary printing operations (Ctrl + P/ Ctrl + Shift + P)
+## 120.0.6099.217_x64/x86
+ Prevision: 120.0.6099.71_x64/x86, 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
+`--no-sandbox`**is no longer needed!** Print preview (`Ctrl + P/ Ctrl + Shift + P`) is also fixed, but but assuming that may is corrupt at some time (please, report this situation).
 
 ![120_sandboxED](images/Chrom_120_sandboxed7.png "Google Chrome Windows 7")
  
