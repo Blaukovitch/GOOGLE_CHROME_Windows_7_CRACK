@@ -1,9 +1,9 @@
 # Google Chrome crack - Windows 7 
-## 120.0.6099.217_x64/x86
- Prevision: 120.0.6099.71_x64/x86, 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
+## 122.0.6261.70
+ Prevision: 120.0.6099.217_x64/x86, 120.0.6099.71_x64/x86, 117.0.5938.63/89_x64_x86, 114.0.5735.134 x64 , 114.0.5735.199 x86  
 `--no-sandbox`**is no longer needed!** Print preview (`Ctrl + P/ Ctrl + Shift + P`) is also fixed, but but assuming that may is corrupt at some time (please, report this situation).
 
-![120_sandboxED](images/Chrome_120_sandboxed7.png "Google Chrome Windows 7")
+![image](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/assets/116763547/e1849dff-6998-4107-a441-6bdc3a2daffd)
  
 * see *!!!!!!!README_FIRST!.pdf*
 ![PH](images/process_hacker.png "Process Hacker Windows 7")  
@@ -49,8 +49,10 @@ https://github.com/Blaukovitch/API-MS-WIN_XP
 2) (for prevision **114 only**) Check you Microsoft Visual C++ Redistributable 2015-2019: https://learn.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170 or 2015: https://www.microsoft.com/en-us/download/details.aspx?id=52685
 
 ## WOW! WebGPU on Windows 7
-May be unstable!  
-Add to command line (with *--no-sandbox*) webgpu flag and **DirectX 3D 11** as webgpu render:  
+Full **Microsoft DirectX 11** support until ver. **122** (!!!!!!!)
+
+OPTIONAL (if needed):
+Add to command line webgpu flag as webgpu render:  
 `--enable-unsafe-webgpu --use-webgpu-adapter=d3d11`  
 In launched Chrome 114 must set enabled those flags:  
 `chrome://flags/#enable-webgpu-developer-features`  
@@ -60,16 +62,16 @@ and restart again.
 ## Features table
 | Critical | State |
 | ------ | ------ |
-| Stable | ✔️ |
+| Stable | ❓ |
 | WinAPI lifting | approx. **95%** |
 | Sandbox support (gpu) | ✔️ | 
 | DirectX Write render | ✔️ | 
 | DXVAVDA | ✔️ | 
 | WebGL1/2 | ✔️ | 
-| WebGPU / DirectX 11 (gpu)| ❓ | 
+| WebGPU / DirectX 11 (gpu)| ✔️ | 
 
 ## YOUTUBE
 https://www.youtube.com/watch?v=idzQV2wNUAI
 
-**ELF (author of 80_PA SecuROM keygen), cracklab/exelab team, 2023**  
+**ELF (author of 80_PA SecuROM keygen), cracklab/exelab team, 2011-2024**  
 https://cracklab.team/index.php?threads/1037/
