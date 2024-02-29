@@ -13,7 +13,8 @@ Dirty corporations and Hindu-managers are trying to deprive the any users of all
 
 ## Chromium based projects
 🇪 [Microsoft EDGE 120.0.2210.77](https://github.com/Blaukovitch/Microsoft-EDGE-Windows-7-CRACK) git branch  (or see RELEASES here)   
-🅾️ [Opera 106.0.4998.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/OperaOneGX) browser   
+🅾️ [Opera 106.0.4998.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/OperaOneGX) browser   (ONE/GX)  
+🅾️ [Opera 099.0.4788.88](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Opera_CLASSIC) browser (LAST CLASSIC)  
 🦁 [BRAVE 120.1.61.120](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/brave) browser  
 🟢 [Spotify 1.2.22.982](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Spotify_first) music
   
