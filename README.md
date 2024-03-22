@@ -15,7 +15,7 @@ Dirty corporations and Hindu-managers are trying to deprive the any users of all
 🇪 [Microsoft EDGE 122.0.2365.80](https://github.com/Blaukovitch/Microsoft-EDGE-Windows-7-CRACK) git branch  (or see RELEASES here)   
 🅾️ [Opera 106.0.4998.70](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/OperaOneGX) browser   (ONE/GX)  
 🅾️ [Opera 099.0.4788.88](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Opera_CLASSIC) browser (LAST CLASSIC)  
-🦁 [BRAVE 120.1.61.120](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/brave) browser  
+🦁 [BRAVE 123.1.64.109](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/brave_WebGPU) browser  
 🇻 [Vivaldi 6.6.3271.50](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/vivaldi_early) browser  
 🟢 [Spotify 1.2.22.982](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/Spotify_first) music  
 📧 [ElectronMail v.5.2.2](https://github.com/Blaukovitch/GOOGLE_CHROME_Windows_7_CRACK/releases/tag/ElectronMail) ProtonMail desktop client  
